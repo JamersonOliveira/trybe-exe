@@ -68,3 +68,33 @@ p, li {
 #header-text {
     width: 80%;
 }
+
+#market {
+    padding: 6em 30px;
+    text-align: center;
+}
+
+#market-text {
+    width: 80%;
+    margin: 0 auto;
+}
+
+#market-text p {
+    margin: 2em;
+}
+
+#testimonials {
+    padding: 30px;
+}
+
+.student-testimonials {
+    width: 30%;
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+    vertical-align: middle;
+}
+
+.student-testimonials p {
+    margin: 1em;
+}
