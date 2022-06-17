@@ -9,8 +9,28 @@ p, li {
 
 #main {
     color: #0a7e51;
+    font-size: 45px;
+    line-height: 55px;
+    font-weight: 600;
+    letter-spacing: -1px;
 }
 
 .trybe-green {
     color: #11a36a;
+}
+
+.section-title {
+    font-size: 28px;
+    line-height: 42px;
+    font-weight: 600;
+}
+
+.testimonial-title {
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 600;
+}
+
+.picture {
+    border-radius: 50%;
 }
