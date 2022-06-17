@@ -2,7 +2,15 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
-p {
+p, li {
     font-size: 16px;
     color: #475550;
+}
+
+#main {
+    color: #0a7e51;
+}
+
+.trybe-green {
+    color: #11a36a;
 }
