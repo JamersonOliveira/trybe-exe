@@ -98,3 +98,29 @@ p, li {
 .student-testimonials p {
     margin: 1em;
 }
+
+#quem-somos {
+    padding: 6em 25px;
+    text-align: center;
+}
+
+.fundadores {
+    box-shadow: 1px 4px 8px 1px rgba(0, 0, 0, 0.2), 0 6px 20px 1px rgba(0, 0, 0, 0.19);
+    border-radius: 2%;
+    width: 40%;
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+    vertical-align: middle;
+    padding: 30px 30px 30px 30px;
+}
+
+.fundadores p {
+    margin: 1em;
+}
+
+.formacao {
+    border: 3px solid red;
+    padding: 6em 30px;
+    text-align: center;
+}
